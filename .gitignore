@@ -14,3 +14,8 @@ MANIFEST
 *.class
 *.jar
 build
+.Python
+bin
+include
+lib
+
